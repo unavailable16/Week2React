@@ -1,0 +1,288 @@
+{
+  "User": [
+    {
+      "id": "1",
+      "username": "wawan",
+      "email": "awikwok2@gmail.com",
+      "pass": "12345"
+    },
+    {
+      "id": "2",
+      "username": "asep",
+      "email": "awikwok3@gmail.com",
+      "pass": "123456"
+    },
+    {
+      "id": "3",
+      "username": "ahdhan",
+      "email": "awikwok4@gmail.com",
+      "pass": "12345"
+    },
+    {
+      "id": "4",
+      "username": "whahah",
+      "pass": "bjir123",
+      "email": "whahah@gmail.com"
+    },
+    {
+      "id": "5",
+      "username": "agus",
+      "pass": "333",
+      "email": "agus21@gmail.com"
+    }
+  ],
+  "Gpuamd": [
+    {
+      "id": "1",
+      "nama": "AMD Radeon Rx 7950XTX",
+      "image": "https://tpucdn.com/gpu-specs/images/c/3941-front.small.jpg",
+      "cu": "96",
+      "bf": "Up to 2500mhz",
+      "core": "6144",
+      "tu": "384",
+      "tc": "58 Billion",
+      "vr": "24GB GDDR6",
+      "bw": "384 bit",
+      "pc": "PCIe 4.0 x16"
+    },
+    {
+      "id": "2",
+      "nama": "AMD Radeon Rx 7900XT",
+      "image": "https://tpucdn.com/gpu-specs/images/c/3912-front.small.jpg",
+      "cu": "84",
+      "bf": "Up to 2400mhz",
+      "core": "5376",
+      "tu": "336",
+      "tc": "58 Billion",
+      "vr": "20GB GDDR6",
+      "bw": "320 bit",
+      "pc": "PCIe 4.0 x16"
+    },
+    {
+      "id": "3",
+      "nama": "AMD Radeon Rx 7800XT",
+      "image": "https://tpucdn.com/gpu-specs/images/c/3839-front.small.jpg",
+      "cu": "60",
+      "bf": "Up to 2430mhz",
+      "core": "3840",
+      "tu": "240",
+      "tc": "58 Billion",
+      "vr": "16GB GDDR6",
+      "bw": "256 bit",
+      "pc": "PCIe 4.0 x16"
+    },
+    {
+      "id": "4",
+      "nama": "AMD Radeon Rx 7700XT",
+      "image": "https://tpucdn.com/gpu-specs/images/c/3911-front.small.jpg",
+      "cu": "54",
+      "bf": "Up to 2544mhz",
+      "core": "3456",
+      "tu": "216",
+      "tc": "28.1 Billion",
+      "vr": "12GB GDDR6",
+      "bw": "192 bit",
+      "pc": "PCIe 4.0 x16"
+    },
+    {
+      "id": "5",
+      "nama": "AMD Radeon Rx 7700",
+      "image": "https://tpucdn.com/gpu-specs/images/c/3911-front.small.jpg",
+      "cu": "48",
+      "bf": "Up to 2600mhz",
+      "core": "3072",
+      "tu": "192",
+      "tc": "28.1 Billion",
+      "vr": "12GB GDDR6",
+      "bw": "192 bit",
+      "pc": "PCIe 4.0 x16"
+    },
+    {
+      "id": "6",
+      "nama": "AMD Radeon Rx 7600XT",
+      "image": "https://tpucdn.com/gpu-specs/images/c/4190-front.small.jpg",
+      "cu": "32",
+      "bf": "Up to 2755mhz",
+      "core": "2048",
+      "tu": "128",
+      "tc": "13.3 Billion",
+      "vr": "16GB GDDR6",
+      "bw": "128 bit",
+      "pc": "PCIe 4.0 x8"
+    }
+  ],
+  "Gpunvidia": [
+    {
+      "nama": "Nvidia Geforce RTX 4090",
+      "image": "https://tpucdn.com/gpu-specs/images/c/3889-front.small.jpg",
+      "cu": "128",
+      "bf": "Up to 2520mhz",
+      "core": "16384",
+      "tu": "512",
+      "tc": "76.3 Billion",
+      "vr": "24GB GDDR6X",
+      "bw": "384 bit",
+      "pc": "PCIe 4.0 x16",
+      "id": "1"
+    },
+    {
+      "nama": "Nvidia Geforce RTX 4080 Super",
+      "image": "https://tpucdn.com/gpu-specs/images/c/4182-front.small.jpg",
+      "cu": "80",
+      "bf": "Up to 2295mhz",
+      "core": "10240",
+      "tu": "320",
+      "tc": "45.9 Billion",
+      "vr": "16GB GDDR6X",
+      "bw": "256 bit",
+      "pc": "PCIe 4.0 x16",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "nama": "Nvidia Geforce RTX 4080",
+      "image": "https://tpucdn.com/gpu-specs/images/c/3888-front.small.jpg",
+      "cu": "76",
+      "bf": "Up to 2505mhz",
+      "core": "9728",
+      "tu": "304",
+      "tc": "45.9 Billion",
+      "vr": "16GB GDDR6X",
+      "bw": "256 bit",
+      "pc": "PCIe 4.0 x16"
+    },
+    {
+      "id": "4",
+      "nama": "Nvidia Geforce RTX 4070 Ti Super",
+      "image": "https://tpucdn.com/gpu-specs/images/c/4187-front.small.jpg",
+      "cu": "66",
+      "bf": "Up to 2610mhz",
+      "core": "8448",
+      "tu": "264",
+      "tc": "45.9 Billion",
+      "vr": "16GB GDDR6X",
+      "bw": "256 bit",
+      "pc": "PCIe 4.0 x16"
+    },
+    {
+      "id": "5",
+      "nama": "Nvidia Geforce RTX 4070 Ti",
+      "image": "https://tpucdn.com/gpu-specs/images/c/3950-front.small.jpg",
+      "cu": "60",
+      "bf": "Up to 2610mhz",
+      "core": "7680",
+      "tu": "240",
+      "tc": "35.8 Billion",
+      "vr": "12GB GDDR6X",
+      "bw": "192 bit",
+      "pc": "PCIe 4.0 x16"
+    },
+    {
+      "id": "6",
+      "nama": "Nvidia Geforce RTX 4070 Super",
+      "image": "https://tpucdn.com/gpu-specs/images/c/4186-front.small.jpg",
+      "cu": "56",
+      "bf": "Up to 2475mhz",
+      "core": "7168",
+      "tu": "224",
+      "tc": "35.8 Billion",
+      "vr": "12GB GDDR6X",
+      "bw": "192 bit",
+      "pc": "PCIe 4.0 x16"
+    },
+    {
+      "id": "7",
+      "nama": "NVIDIA GeForce RTX 4070",
+      "image": "https://tpucdn.com/gpu-specs/images/c/3924-front.small.jpg",
+      "description": "",
+      "cu": "64",
+      "bf": "2475 MHz",
+      "core": "5888",
+      "tu": "184",
+      "tc": "35.8 Billion",
+      "vr": "12GB GDDR6X",
+      "bw": "192 Bit",
+      "pc": "PCIe 4.0 x16"
+    }
+  ],
+  "Gpuintel": [
+    {
+      "id": "2",
+      "nama": "Intel ARC A770",
+      "image": "https://tpucdn.com/gpu-specs/images/c/3914-front.small.jpg",
+      "cu": "512",
+      "bf": "Up to 2400mhz",
+      "core": "4096",
+      "tu": "256",
+      "tc": "21.7 Billion",
+      "vr": "16GB GDDR6",
+      "bw": "256 bit",
+      "pc": "PCIe 4.0 x16"
+    },
+    {
+      "id": "3",
+      "nama": "Intel ARC A750",
+      "image": "https://tpucdn.com/gpu-specs/images/c/3929-front.small.jpg",
+      "cu": "448",
+      "bf": "Up to 2400mhz",
+      "core": "3584",
+      "tu": "224",
+      "tc": "21.7 Billion",
+      "vr": "8GB GDDR6",
+      "bw": "256 bit",
+      "pc": "PCIe 4.0 x16"
+    },
+    {
+      "id": "4",
+      "nama": "Intel ARC A580",
+      "image": "https://tpucdn.com/gpu-specs/images/c/3928-front.small.jpg",
+      "cu": "384",
+      "bf": "Up to 2000mhz",
+      "core": "3072",
+      "tu": "192",
+      "tc": "21.7 Billion",
+      "vr": "8GB GDDR6",
+      "bw": "256 bit",
+      "pc": "PCIe 4.0 x16"
+    },
+    {
+      "id": "5",
+      "nama": "Intel ARC A380",
+      "image": "https://tpucdn.com/gpu-specs/images/c/3913-front.small.jpg",
+      "cu": "128",
+      "bf": "Up to 2050mhz",
+      "core": "1024",
+      "tu": "64",
+      "tc": "7.2 Billion",
+      "vr": "6GB GDDR6",
+      "bw": "96 bit",
+      "pc": "PCIe 4.0 x8"
+    },
+    {
+      "id": "6",
+      "nama": "Intel ARC A350",
+      "image": "https://tpucdn.com/gpu-specs/images/c/3931-front.small.jpg",
+      "cu": "96",
+      "bf": "Up to 2000mhz",
+      "core": "768",
+      "tu": "48",
+      "tc": "7.2 Billion",
+      "vr": "4GB GDDR6",
+      "bw": "64 bit",
+      "pc": "PCIe 4.0 x8"
+    },
+    {
+      "nama": "Intel ARC A310",
+      "image": "https://tpucdn.com/gpu-specs/images/c/3930-front.small.jpg",
+      "cu": "96",
+      "bf": "Up to 1750mhz",
+      "core": "768",
+      "tu": "32",
+      "tc": "7.2 Billion",
+      "vr": "4GB GDDR6",
+      "bw": "64 bit",
+      "pc": "PCIe 4.0 x8",
+      "id": "7"
+    }
+  ]
+}
